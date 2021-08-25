@@ -2,3 +2,6 @@
 # Class codes
 
 Códigos realizados em sala de aula.
+
+Código de atividade editado por Rafael Pinho
+
